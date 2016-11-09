@@ -1,3 +1,6 @@
+React / Redux project in order to help the creation of characters for the paper role play game ["Le Donjon de Naheulbeuk"](https://www.naheulbeuk.com/).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
